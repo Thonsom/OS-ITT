@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "My App",
+  "description": "Firefox OS",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/dm-icon.png"
+  },
+  "developer": {
+    "name": "Tu nombre",
+    "url": ""
+  },
+  "default_locale": "es"
+}
