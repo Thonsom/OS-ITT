@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "name": "My App",
-  "description": "Firefox OS",
+  "name": "OS-ITT",
+  "description": "Introduccion a Firefox OS",
   "launch_path": "/index.html",
   "icons": {
     "128": "/img/dm-icon.png"
   },
   "developer": {
-    "name": "Tu nombre",
+    "name": "Netzahualcoyotl López López",
     "url": ""
   },
   "default_locale": "es"
